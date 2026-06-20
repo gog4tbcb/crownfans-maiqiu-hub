@@ -1,2 +1,14 @@
 # crownfans-maiqiu-hub
-HTML page archive and documentation
+
+HTML 资料页存档
+
+这里用于集中归档一批静态 HTML 页面文件。
+
+## 仓库内容
+
+- 页面文件保存在根目录
+- 后续任务会继续追加新的 HTML 文件
+
+## 备注
+
+仓库内容用于静态页面归档，具体页面请以 HTML 文件为准。
